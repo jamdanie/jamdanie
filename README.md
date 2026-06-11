@@ -1,8 +1,8 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&text=Cybersecurity%20%7C%20Networking%20%7C%20Cloud&fontColor=ffffff&fontSize=28&fontAlignY=40&animation=fadeIn"/>
-
 </div>
+
 ### 🧠 About Me
 ---
 <div align="center">
