@@ -61,5 +61,7 @@ I build cybersecurity, networking, cloud, and software projects.
 
 ### 🐍 Activity
 
-![snake](https://raw.githubusercontent.com/jamdanie/jamdanie/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jamdanie/jadanie/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
