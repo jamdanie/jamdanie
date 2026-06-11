@@ -8,15 +8,11 @@
 ---
 <div align="center">
 
-I build cybersecurity, networking, cloud, and software development projects.
+Building projects and exploring emerging technologies as an Information Technology student at the University of Washington Tacoma.
 
+🔐 Cybersecurity & Threat Analysis    |    🌐 Networking & Infrastructure    |    ☁️ Cloud & Distributed Systems
 
-
-🔐 Cybersecurity Systems &nbsp;&nbsp; | &nbsp;&nbsp; 🌐 Networking & Infrastructure &nbsp;&nbsp; | &nbsp;&nbsp; ☁️ Cloud Engineering  
-
-
-
-💻 Software Development &nbsp;&nbsp; | &nbsp;&nbsp; 🎮 Security Training Games &nbsp;&nbsp; | &nbsp;&nbsp; 🛡️ Threat Analysis
+🤖 LLMs & Agentic AI Systems    |    💻 Full Stack Development    |    🚀 Continuous Learning & Innovation    |    🛡️ Threat Analysis
 
 </div>
 
